@@ -7,6 +7,6 @@
     "dev": "lanza dev"
   },
   "dependencies": {
-    "lanza-site": "0.1.9"
+    "lanza-site": "0.1.10"
   }
 }
