@@ -5,3 +5,4 @@ dist/
 # Generated at build time by `lanza build`.
 public/_redirects
 functions/
+frontend/
